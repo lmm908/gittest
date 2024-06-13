@@ -1,0 +1,9 @@
+diff a/like.md b/like.md	(rejected hunks)
+@@ -1,2 +0,3 @@
+-좋아요 기능
+-실어요 기능
+\ No newline at end of file
++좋아요 기능
++싫어요 기능
++찜하기 기능
+\ No newline at end of file
